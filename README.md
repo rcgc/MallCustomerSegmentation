@@ -14,7 +14,7 @@ After that, I'll use a decision tree which implements the CART algorithm in orde
 
 ### K-means
 ![Original dataset scatter graph](https://github.com/rcgc/MallCustomerSegmentation/blob/master/Figure_1_dataset.png)
-<p><b>Image 1. </b>Original dataset scatter graph</p><br><br>
+<p><b>Image 1. </b>Original dataset scatter graph[1]</p><br><br>
 
 ![Elbow method graph](https://github.com/rcgc/MallCustomerSegmentation/blob/master/Figure_2_elbow_method.png)
 <p><b>Image 2. </b>Elbow method graph</p><br><br>
@@ -25,3 +25,4 @@ After that, I'll use a decision tree which implements the CART algorithm in orde
 ### Decision tree
 
 # References
+[1]"Mall Customer Segmentation Data", Kaggle.com, 2021. [Online]. Available: https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python?select=Mall_Customers.csv. [Accessed: 04- Nov- 2021].
