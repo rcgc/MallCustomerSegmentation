@@ -27,7 +27,7 @@ After that, I'll use a decision tree which implements the CART algorithm in orde
 <p><b>Image 4. </b>Decision tree diagram</p><br>
 
 <p>Value it's an array of label values from 0-4. So according to image 3, it can be undestood in the following way:</p>
-<p>value = [label0, label1, label2, label3, label4]</p>
+<p>value = [ label0🟢, label1🟡, label2🔴, label3🟣, label4🔵 ]</p>
 
 # References
 [1]"Mall Customer Segmentation Data", Kaggle.com, 2021. [Online]. Available: https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python?select=Mall_Customers.csv. [Accessed: 04- Nov- 2021].<br>
