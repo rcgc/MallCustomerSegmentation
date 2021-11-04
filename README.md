@@ -14,13 +14,13 @@ After that, I'll use a decision tree which implements the CART algorithm in orde
 
 ### K-means
 ![Original dataset scatter graph](https://github.com/rcgc/MallCustomerSegmentation/blob/master/Figure_1_dataset.jpeg)
-<b>Image 1. </b>Original dataset scatter graph
+<p><b>Image 1. </b>Original dataset scatter graph</p>
 
 ![Elbow method graph](https://github.com/rcgc/MallCustomerSegmentation/blob/master/Figure_2_elbow_method.jpeg)
-<b>Image 2. </b>Elbow method graph
+<p><b>Image 2. </b>Elbow method graph</p>
 
 ![Clusters graph](https://github.com/rcgc/MallCustomerSegmentation/blob/master/Figure_3_clusters.jpeg)
-<b>Image 3. </b>Clusters graph
+<p><b>Image 3. </b>Clusters graph</p>
 
 ### Decision tree
 
