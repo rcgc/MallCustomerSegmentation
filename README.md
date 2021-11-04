@@ -25,7 +25,7 @@ After that, I'll use a decision tree which implements the CART algorithm in orde
 #### Interpretation of clusters by customer group
 | label | Annual Income (k$) | Spending score (1-100) |
 | ----- | ------------------ | ---------------------- |
-|  0🟢 |   intermedium      |  intermedium           |
+|  0🟢 |   intermediate     |  intermediate          |
 |  1🟡 |   low              |      high              |
 |  2🔴 |   high             |      low               |
 |  3🟣 |   low              |      low               |
