@@ -22,6 +22,17 @@ After that, I'll use a decision tree which implements the CART algorithm in orde
 ![Clusters graph](https://github.com/rcgc/MallCustomerSegmentation/blob/master/Figure_3_clusters.png)
 <p><b>Image 3. </b>Clusters graph</p><br>
 
+#### Interpretation of clusters
+| label | Annual Income (k$) | Spending score (1-100) |
+| ----- | ------------------ | ---------------------- |
+|  0🟢 |   intermedium      |  intermedium           |
+|  1🟡 |   low              |      high              |
+|  2🔴 |   high             |      low               |
+|  3🟣 |   low              |      low               |
+|  4🔵 |   high             |      high              |
+<br>
+
+
 ### Decision tree
 ![Decision_tree graph](https://github.com/rcgc/MallCustomerSegmentation/blob/master/Figure_4_decision_tree.png)
 <p><b>Image 4. </b>Decision tree diagram</p><br>
