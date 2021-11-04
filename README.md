@@ -38,9 +38,9 @@ After that, I'll use a decision tree which implements the CART algorithm in orde
 <p><b>Image 4. </b>Decision tree diagram</p><br>
 
 <p>Value it's an array of label values from 0-4. So according to image 3, it can be undestood in the following way:</p>
-<p>value = [ label0🟢, label1🟡, label2🔴, label3🟣, label4🔵 ]</p><br>
+<p>value = [ label0🟢, label1🟡, label2🔴, label3🟣, label4🔵 ]</p>
 
-#### How much is low, high or medium?
+#### How much is low, medium or high?
 | label | Annual Income (k$) | Spending score (1-100) |
 | ----- | ------------------ | ---------------------- |
 |  0🟢 |   <= 38.5          |      <= 50.0           |
@@ -48,7 +48,6 @@ After that, I'll use a decision tree which implements the CART algorithm in orde
 |  2🔴 |   38.5 - 68.5      |      -                 |
 |  3🟣 |   <= 38.5          |      >  50.0           |
 |  4🔵 |   > 68.5           |      <= 51.5           |
-<br>
 
 # References
 [1]"Mall Customer Segmentation Data", Kaggle.com, 2021. [Online]. Available: https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python?select=Mall_Customers.csv. [Accessed: 04- Nov- 2021].<br>
