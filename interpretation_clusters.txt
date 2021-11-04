@@ -1,7 +1,0 @@
-label	Comparison			Result
-
-0	intermedium			:)
-1	low incomes big spending	:)
-2	big incomes low spending	:(
-3	low incomes low spending	:(
-4	big incomes big spending	:)
