@@ -1,4 +1,4 @@
-# MallCustomerSegmentation
+# MallCustomerSegmentationAndClassification
 ## Abstract
 Stores usually launch offers, but how do they know what kind of offers could we need? 
 
