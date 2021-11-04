@@ -1,6 +1,8 @@
+import numpy as np
 from matplotlib import pyplot as plt
 import pandas as pd
 from sklearn.model_selection import train_test_split
+from sklearn.datasets import load_iris
 from sklearn.tree import DecisionTreeClassifier
 from sklearn import tree
 
@@ -17,5 +19,5 @@ clf.fit(X_train, y_train)
 
 print(df)
 
-tree.plot_tree(clf, feature_names=["Annual Income", "Spending Score"])
+tree.plot_tree(clf, feature_names=["Annual Income", "Spending Score", "label"])
 plt.show()
