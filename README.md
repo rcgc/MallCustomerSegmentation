@@ -20,7 +20,7 @@ After that, I'll use a decision tree which implements the CART algorithm in orde
 <p><b>Image 2. </b>Elbow method graph</p><br><br>
 
 ![Clusters graph](https://github.com/rcgc/MallCustomerSegmentation/blob/master/Figure_3_clusters.png)
-<p><b>Image 3. </b>Clusters graph</p><br><br>
+<p><b>Image 3. </b>Clusters graph</p><br>
 
 ### Decision tree
 
