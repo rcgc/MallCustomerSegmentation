@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.cluster import KMeans
-from sklearn.decomposition import PCA
+# https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python?select=Mall_Customers.csv
 
 customers = pd.read_csv('Mall_Customers.csv')
 customers_variables = customers.drop(['CustomerID', 'Gender', 'Age'], axis=1)
