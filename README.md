@@ -51,4 +51,5 @@ After that, I'll use a decision tree which implements the CART algorithm in orde
 
 # References
 [1]"Mall Customer Segmentation Data", Kaggle.com, 2021. [Online]. Available: https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python?select=Mall_Customers.csv. [Accessed: 04- Nov- 2021].<br>
-[2]"1.10. Decision Trees", scikit-learn, 2021. [Online]. Available: https://scikit-learn.org/stable/modules/tree.html. [Accessed: 04- Nov- 2021].
+[2]"1.10. Decision Trees", scikit-learn, 2021. [Online]. Available: https://scikit-learn.org/stable/modules/tree.html. [Accessed: 04- Nov- 2021].<br>
+[3]Gordon, J., 2021. Let’s Write a Decision Tree Classifier from Scratch - Machine Learning Recipes #8. [online] Youtube.com. Available at: <https://www.youtube.com/watch?v=LDRbO9a6XPU&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal&index=9> [Accessed 4 November 2021].
