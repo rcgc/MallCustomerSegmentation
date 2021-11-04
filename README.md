@@ -2,7 +2,7 @@
 ## Abstract
 Stores usually launch offers, but how do they know what kind of offers could we need? 
 
-Fortunately they're not spying us when we are talking or thinking about our necessities (or maybe yes). However, one of the many roads to discover deeper relationships between customer necessities and increasing store sellings is by finding patterns in data, and that's what <b>Machine Learning</b> accomplishes perfectly.
+Fortunately they're not spying us when we are talking or thinking about our necessities (or maybe yes). However, one of the many roads to discover deeper relationships between customer necessities and increasing store sales is by finding patterns in data, and that's what <b>Machine Learning</b> accomplishes perfectly.
 
 ## Unsupervised learning
 This <b>Machine Learning</b> subarea refers to the use of <b>Artificial Intelligence</b> algorithms to detect patterns in data sets containing data points that are neither classified nor labeled.
