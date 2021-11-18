@@ -49,6 +49,12 @@ After that, I'll use a decision tree which implements the CART algorithm in orde
 |  3🟣 |   <= 38.5          |      >  50.0           |
 |  4🔵 |   > 68.5           |      <= 51.5           |
 
+## How to use it
+Run the .py files in the following order:
+- `python kmeans.py`
+- `python dt2.py`
+- `python decision_tree.py`
+
 # References
 [1]"Mall Customer Segmentation Data", Kaggle.com, 2021. [Online]. Available: https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python?select=Mall_Customers.csv. [Accessed: 04- Nov- 2021].<br>
 [2]"1.10. Decision Trees", scikit-learn, 2021. [Online]. Available: https://scikit-learn.org/stable/modules/tree.html. [Accessed: 04- Nov- 2021].<br>
