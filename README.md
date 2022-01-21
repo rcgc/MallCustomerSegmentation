@@ -53,6 +53,12 @@ After that, I'll use a decision tree which implements the CART algorithm in orde
 ![Segmentation](https://github.com/rcgc/MallCustomerSegmentationAndClassification/blob/master/Figure_5_segmentation.png)
 <p><b>Image 5. </b>Final segmentation</p><br>
 
+## Requirements
+- Python 3. https://www.python.org/downloads/
+- Preferred IDE (optional). https://www.jetbrains.com/pycharm/
+- Clone current repo
+- Place into cloned repo folder
+
 ## How to use it
 Run the .py files in the following order:
 - `python kmeans.py` : will plot the original data, elbow diagram, kmeans clusters and will generate customer_segmentation.csv
