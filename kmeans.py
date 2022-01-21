@@ -42,8 +42,7 @@ clustering = KMeans(n_clusters=5, max_iter=300)
 clustering.fit(customers_norm)
 
 km1 = KMeans(algorithm='auto', copy_x=True, init='k-means++', max_iter=300,
-       n_clusters=5, n_init=10, n_jobs=None, precompute_distances='auto',
-       random_state=None, tol=0.0001, verbose=0)
+       n_clusters=5, n_init=10, random_state=None, tol=0.0001, verbose=0)
 
 km1.fit(customers_norm)
 y = km1.predict(customers_norm)
@@ -51,7 +50,7 @@ y = km1.predict(customers_norm)
 customers_norm["label"] = y
 customers["label"] = y
 
-print(customers)
+# print(customers)
 
 plt.figure(figsize=(6, 6))
 sns.scatterplot(x='Annual Income (k$)', y='Spending Score (1-100)', hue="label",
@@ -60,7 +59,12 @@ sns.scatterplot(x='Annual Income (k$)', y='Spending Score (1-100)', hue="label",
 plt.xlabel('Annual Income (k$)')
 plt.ylabel('Spending Score (1-100)')
 plt.title('Spending Score (1-100) vs Annual Income (k$)')
-plt.show()
+
+# plt.axhline(50.0, linestyle='--')
+# plt.axhline(51.5, linestyle='--')
+
+# plt.axvline(38.5, linestyle='--')
+# plt.axvline(68.5, linestyle='--')
 
 plt.show()
 
