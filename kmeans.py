@@ -68,4 +68,6 @@ plt.title('Spending Score (1-100) vs Annual Income (k$)')
 
 plt.show()
 
+plt.show()
+
 customers.to_csv('customer_segmentation.csv')
